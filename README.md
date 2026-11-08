@@ -16,19 +16,6 @@
 
 </div>
 
-## About me
-
-```ts
-const chiran = {
-  role: "Aspiring Software Engineer",
-  education: "Informatics Institute of Technology (IIT)",
-  location: "Sri Lanka",
-  focus: ["Full-stack development", "Problem solving", "AI-powered products"],
-  currentlyLearning: ["System design", "Cloud technologies", "Better algorithms"],
-  motto: "Make it work. Make it clear. Make it better."
-};
-```
-
 I enjoy turning ideas into practical software, learning how systems work under the hood, and solving problems that make products more useful. I am always open to interesting collaborations, challenging projects, and conversations about technology.
 
 ## What I build
@@ -96,7 +83,7 @@ I enjoy turning ideas into practical software, learning how systems work under t
 
 <br /><br />
 
-<i>Thanks for stopping by — keep building something awesome.</i>
+<i>Thanks for stopping by.</i>
 
 </div>
 
